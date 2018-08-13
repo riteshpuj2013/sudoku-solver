@@ -1,6 +1,8 @@
 Sudoku-Solver
 
 ### Run:
+    git clone https://github.com/riteshpuj2013/sudoku-solver.git
+    cd sudoku-solver
     ./mvnw spring-boot:run
 
 ### Test 1:
